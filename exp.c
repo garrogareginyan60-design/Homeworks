@@ -20,7 +20,7 @@ int main(){
     Vector array;
 
     if(!constructor(&array)){
-        printf("Constructor failed\n");
+        printf("Constructor failed!\n");
         return 1;
     }
 
